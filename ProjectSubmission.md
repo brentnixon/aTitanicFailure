@@ -1,12 +1,22 @@
-* Write-up: PDF or Markdown file that includes links to your Tableau Public workbooks, published online, and a write-up with four sections. 
+# A Titanic Failure -- Exploration of Titanic Dataset with Tableau
+####              Brent Nixon, March 2018
 
-* Summary: in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
+### Link to first version of story:  
+https://public.tableau.com/profile/brent.nixon#!/vizhome/ATitanicFailure/ATitanicFailure 
+
+### Link to second version: 
+
+### Summary:
+This Tableau story is a simple exploration of the loss of the ocean-going vessel Titanic through a publicly available dataset that contains information about passenger numbers, age, sex, socioeconomic class, and other variables, as well as whether or not they survived the event. My story explores the breakdown of passengers across these different variables. Once the makeup of the ship's passengers is more clear, I explore the breakdown of passenger survival across the same variables.
+
+### Design:
 * Design: explain any design choices you made including changes to the visualization after collecting feedback
-* Feedback: include all feedback you received from others on your visualization from the first sketch to the final visualization
-* Resources: list any sources you consulted to create your visualization
-* Data Files
-    * the final data set used to create the visualization (usually .csv, .tsv, or .json file)
-    
-    * a codebook or other files related to the data set (description, readme, license)
 
-** include links to both the initial version of the story, and the final one with design changes
+### Feedback:
+* Feedback: include all feedback you received from others on your visualization from the first sketch to the final visualization
+
+### Resources:
+* https://onlinehelp.tableau.com 
+
+### Data:
+* titanic-data.csv (in repo)
